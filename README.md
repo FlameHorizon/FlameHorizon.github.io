@@ -12,7 +12,7 @@ In working hours I'm dealing with a lot of data and making sure that all the sys
 - ActiveX and COM objects
 - some PowerShell/CMD magic
 
-## what I'm doing outside of work?
+## What I'm doing outside of work?
 
 I'm intrested in solving puzzles, that is why I made a CLI tool for Number Match mobile game [Number Match Solver](https://github.com/FlameHorizon/number-match-solver) and competing in [Advent of Code](https://github.com/FlameHorizon/AdventOfCode) challanges. 
 
